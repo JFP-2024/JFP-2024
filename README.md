@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem-vindo ao meu perfil 🩹
 
-<!--
-**JFP-2024/JFP-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João 
 
-Here are some ideas to get you started:
+-Estou fazendo o curso do alura
+-Estou desenvolvendo meu conhecimento na linguagem javascript
+-utilizando esse espaço para minha organização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo em 📧
+
+00001077158051sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/g3I85UEkTHYAAAAM/shigeo-kageyama-mob.gif)
+
+
+
+
